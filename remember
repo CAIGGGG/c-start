@@ -1,0 +1,19 @@
+// five 
+#include <iostream>
+
+int main ()
+{
+  std::cout << "hello world";
+  return 0 ;
+}
+
+
+另
+
+//six
+#include <iostream>
+int main ()
+{
+  printf("hello world");
+  return 0 ;
+}
